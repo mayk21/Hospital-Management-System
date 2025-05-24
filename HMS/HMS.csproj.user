@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="admin_login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="book_appointment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="doctor_login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="homepage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="homepage_admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="homepage_doctor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="homepage_patient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="prescriptions.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="signup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="update_information.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view_appointments.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view_prescription.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="admin_login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="book_appointment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="doctor_login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="homepage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="homepage_admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="homepage_doctor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="homepage_patient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="prescriptions.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="signup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="update_information.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view_appointments.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view_prescription.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

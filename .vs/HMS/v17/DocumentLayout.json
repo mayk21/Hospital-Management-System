@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\update_information.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\update_information.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\update_information.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\update_information.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\view_prescription.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\view_prescription.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\view_prescription.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\view_prescription.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\view_appointments.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\view_appointments.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\prescriptions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\prescriptions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\homepage_patient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\homepage_patient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\homepage_doctor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\homepage_doctor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\homepage_admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\homepage_admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\doctor_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\doctor_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|c:\\users\\pmls\\desktop\\6th sem\\vp\\new folder\\hms\\hms\\book_appointment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB45062B-1F94-47B8-A67F-54CF73599CB5}|HMS\\HMS.csproj|solutionrelative:hms\\book_appointment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "signup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\signup.xaml.cs",
+              "RelativeDocumentMoniker": "HMS\\signup.xaml.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\signup.xaml.cs",
+              "RelativeToolTip": "HMS\\signup.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:40:51.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "view_prescription.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\view_prescription.xaml.cs",
+              "RelativeDocumentMoniker": "HMS\\view_prescription.xaml.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\view_prescription.xaml.cs",
+              "RelativeToolTip": "HMS\\view_prescription.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:58:39.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "update_information.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\update_information.xaml.cs",
+              "RelativeDocumentMoniker": "HMS\\update_information.xaml.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\update_information.xaml.cs",
+              "RelativeToolTip": "HMS\\update_information.xaml.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwFsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:57:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "view_prescription.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\view_prescription.xaml",
+              "RelativeDocumentMoniker": "HMS\\view_prescription.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\view_prescription.xaml",
+              "RelativeToolTip": "HMS\\view_prescription.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:55:36.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "view_appointments.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\view_appointments.xaml",
+              "RelativeDocumentMoniker": "HMS\\view_appointments.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\view_appointments.xaml",
+              "RelativeToolTip": "HMS\\view_appointments.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:55:29.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "update_information.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\update_information.xaml",
+              "RelativeDocumentMoniker": "HMS\\update_information.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\update_information.xaml",
+              "RelativeToolTip": "HMS\\update_information.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:55:22.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "signup.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\signup.xaml",
+              "RelativeDocumentMoniker": "HMS\\signup.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\signup.xaml",
+              "RelativeToolTip": "HMS\\signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:55:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "prescriptions.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\prescriptions.xaml",
+              "RelativeDocumentMoniker": "HMS\\prescriptions.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\prescriptions.xaml",
+              "RelativeToolTip": "HMS\\prescriptions.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:55:07.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HMS\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\MainWindow.xaml",
+              "RelativeToolTip": "HMS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:54:58.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "homepage_patient.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage_patient.xaml",
+              "RelativeDocumentMoniker": "HMS\\homepage_patient.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage_patient.xaml",
+              "RelativeToolTip": "HMS\\homepage_patient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:54:46.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "homepage_doctor.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage_doctor.xaml",
+              "RelativeDocumentMoniker": "HMS\\homepage_doctor.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage_doctor.xaml",
+              "RelativeToolTip": "HMS\\homepage_doctor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:54:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "homepage_admin.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage_admin.xaml",
+              "RelativeDocumentMoniker": "HMS\\homepage_admin.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage_admin.xaml",
+              "RelativeToolTip": "HMS\\homepage_admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:54:31.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "homepage.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage.xaml",
+              "RelativeDocumentMoniker": "HMS\\homepage.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\homepage.xaml",
+              "RelativeToolTip": "HMS\\homepage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:54:24.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "doctor_login.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\doctor_login.xaml",
+              "RelativeDocumentMoniker": "HMS\\doctor_login.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\doctor_login.xaml",
+              "RelativeToolTip": "HMS\\doctor_login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:54:17.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "book_appointment.xaml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\book_appointment.xaml",
+              "RelativeDocumentMoniker": "HMS\\book_appointment.xaml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\6th sem\\VP\\New folder\\HMS\\HMS\\book_appointment.xaml",
+              "RelativeToolTip": "HMS\\book_appointment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:53:55.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
